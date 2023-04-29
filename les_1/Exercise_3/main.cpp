@@ -33,4 +33,5 @@ int main() {
     char c = charToInt + i;
     std::cout << c << ": " << counts[i] << " times.\n";
   }
+  return 0;
 }
